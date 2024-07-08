@@ -1,0 +1,1316 @@
+<resources>
+    <string name="app_name">RecipicApp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //CHICKEN RECIPES
+    //Chicken Arroz Caldo
+    <string name="arozcaldoIngredients">
+\n2 tablespoons olive oil
+\n1 onion, diced
+\n2 cloves garlic, crushed
+\n1 (2 inch) piece fresh ginger, peeled and thinly sliced
+\n2 ¼ pounds chicken wings, split and tips discarded
+\n1 tablespoon fish sauce (Optional)
+\n5 ¼ cups chicken broth
+\n1 cup glutinous sweet rice
+\nsalt and pepper to taste
+\n1 green onion, chopped
+\n1 lemon, sliced (Optional)
+\n1 teaspoon fish sauce for sprinkling, if desired (Optional)</string>
+    <string name="caldoDesc">
+\n1. Heat oil in a large pot over medium heat. Cook and stir onion, garlic, and ginger in hot oil until fragrant, about 5 minutes. Add chicken wings; cook and stir for 1 minute. Stir in fish sauce, cover, and cook another 2 minutes.
+
+\n2. Pour chicken broth into the pot. Stir in sweet rice and bring mixture to a boil. Cover and cook for 10 minutes, stirring occasionally to prevent rice from sticking to the bottom of the pot. Season with salt and pepper.
+
+\n3. Portion soup into bowls and garnish with green onion. Serve with lemon slices and additional fish sauce, if desired.</string>
+    //Chicken Adobo
+    <string name="adoboIngredients">
+\n2 tablespoons vegetable oil
+\n1 (3 pound) chicken, cut into pieces
+\n1 large onion, quartered and sliced
+\n2 tablespoons minced garlic
+\n⅔ cup low sodium soy sauce
+\n⅓ cup white vinegar
+\n1 tablespoon garlic powder
+\n2 teaspoons black pepper
+\n1 bay leaf</string>
+    <string name="adoboDesc">\n1. Heat vegetable oil in a large skillet over medium-high heat. Cook chicken pieces until golden brown, 2 to 3 minutes per side. Transfer chicken to a plate and set aside.
+
+\n2. Add onion and garlic to the skillet; cook until softened and brown, about 6 minutes.
+
+\n3. Pour in soy sauce and vinegar and season with garlic powder, black pepper, and bay leaf.
+
+\n4. Return chicken to pan, increase heat to high, and bring to a boil. Reduce heat to medium-low, cover, and simmer until chicken is tender and cooked through, 35 to 40 minutes.
+</string>
+    //Garlic Fried Chicken
+    <string name="GFCIngredients">
+\n2 teaspoons garlic powder, or to taste
+\n1 teaspoon ground black pepper
+\n1 teaspoon salt
+\n1 teaspoon paprika
+\n½ cup seasoned bread crumbs
+\n1 cup all-purpose flour
+\n½ cup milk
+\n1 egg
+\n4 skinless, boneless chicken breast halves - pounded thin
+\n1 cup oil for frying, or as needed</string>
+    <string name="GFCDesc">\n1. In a shallow dish, mix together the garlic powder, pepper, salt, paprika, bread crumbs and flour. In a separate dish, whisk together the milk and egg.
+
+\n2. Heat the oil in an electric skillet set to 350 degrees F (175 degrees C). Dip the chicken into the egg and milk, then dredge in the dry ingredients until evenly coated.
+
+\n3. Fry chicken in the hot oil for about 5 minutes per side, or until the chicken is cooked through and juices run clear. Remove from the oil with a slotted spatula, and serve.</string>
+    //Chicken Afritada
+    <string name="afriIngredients">
+\n1 tablespoon vegetable oil
+\n3 cloves garlic, crushed and chopped
+\n1 onion, chopped
+\n1 cup seeded and chopped tomatoes
+\n1 (3 pound) whole chicken, cut into pieces
+\n3 cups water
+\n1 cup tomato sauce (Optional)
+\n3 potatoes, quartered
+\n1 green bell pepper, seeded and cut into matchsticks
+\n1 carrot, chopped
+\nsalt and ground black pepper to taste</string>
+    <string name="afriDesc">\n1. Heat oil in a large wok over medium heat; add garlic. Cook and stir until fragrant, about 3 minutes. Add onion; cook and stir until translucent, about 5 minutes. Stir in tomatoes; cook, mashing with a fork, until flesh and skin separate, about 5 minutes.
+
+\n2. Place chicken in the wok; cook and stir until lightly browned, about 5 minutes. Pour in water. Cover and bring to a boil. Stir in tomato sauce; simmer until flavors combine, about 15 minutes.
+
+\n3. Mix potatoes into the wok; simmer until tender, about 10 minutes. Stir in bell pepper and carrot; simmer until softened, about 5 minutes. Season with salt and pepper.</string>
+    //Buffalo Chicken Wings
+    <string name="buffIngredients">
+\n¼ teaspoon ground paprika
+\n¼ teaspoon cayenne pepper
+\n¼ teaspoon salt
+\n10 chicken wings
+\n2 cups vegetable oil for frying, or as needed
+\n¼ cup butter
+\n¼ cup hot sauce
+\n1 pinch ground black pepper
+\n1 pinch garlic powder</string>
+    <string name="buffDesc">\n1. Whisk together flour, paprika, cayenne pepper, and salt in a large bowl.
+
+\n2. Place chicken wings in the bowl with flour mixture and toss until evenly coated. Transfer wings to a 9x13-inch glass baking dish and arrange in a single layer. Cover and refrigerate for 1 to 1 1/2 hours.
+
+\n3. Add about 1 inch oil to a deep, heavy skillet; heat to 375 degrees F (190 degrees C). (The oil should be just enough to cover wings entirely.)
+
+\n4. Meanwhile, combine butter, hot sauce, pepper, and garlic powder in a separate small saucepan over low heat. Cook and stir until butter is melted and mixture is thoroughly blended. Remove from the heat and reserve for serving.
+
+\n5. Fry coated wings in the hot oil for 10 to 15 minutes, or until they begin to crisp and turn brown. Maintain the oil temperature while cooking. Remove cooked wings from hot oil and let drain on paper towels or a wire rack.
+
+\n6. Transfer wings to a platter and drizzle hot sauce over top; or mix wings and hot sauce in a bowl until coated.</string>
+    //Chicken Sinigang
+    <string name="siniIngredients">
+\n500 gms chicken, cut into serving pieces
+\n4 cloves garlic, crushed
+\n1 medium onion, sliced
+\n2 tomatoes, quartered
+\n1 tamarind soup mix
+\n1 bunch string beans (sitaw)
+\n1 large radish, sliced diagonally
+\n1 bunch kangkong
+\n2 finger chilies (siling haba)
+\n5 cups water
+\n2 tsp vegetable oil
+salt/fish sauce</string>
+    <string name="siniDesc">
+\n1. In a pot, heat oil over medium heat and saute garlic, onion and tomatoes.
+
+\n2. Stir in chicken and cook until lightly browned.
+
+\n3. Add water, tamarind soup mix and season with salt/fish sauce. Simmer for about 30 minutes.
+
+\n4. Add radish and string beans and cook until tender.
+
+\n5. Add kangkong and finger chilies.
+\nServe hot and enjoy.</string>
+    //Chicken Kalderete
+    <string name="kaldeIngredients">
+\n1 kg Chicken Legs
+\n1/3 cup vinegar
+\nsalt to taste
+\n1/2 tsp black peppercorns lightly cracked
+\n1/2 Tbsp minced garlic
+\n1 medium onion - chopped
+\nCanola oil for frying
+\n500 gm Tomato Sauce
+\n1 85 gm can of Liver Spread
+\n2 pcs medium sized Bell Pepper seeded and sliced
+\n2 pcs long Green or Red chilli [optional]
+\n1/3 cup bottled olives - drained [optional]
+\n1 can of Green Peas you can also use fresh or frozen 1/2 cup
+\n250 gm Potatoes - peeled and quartered
+\n1/2 cup grated cheddar cheese
+\nHot Chilli Sauce [optional]</string>
+    <string name="kaldeDesc">
+\n1. In a bowl add the following ingredients vinegar, salt, garlic, and peppercorns, then mix thoroughly.
+
+\n2. Add the chicken pieces to the mixture and mix well. Marinate chicken for at least 2 hours.
+
+\n3. In a big pot, heat oil for frying. Fry the potatoes till cooked.
+
+\n4. Now, Drain the Chicken from marinade and fry briefly in the oil in batches. Set aside.
+
+\n5. Remove oil from the pot but leave about 2 Tbsp. Heat up again and saute the onion on medium heat until soft and translucent (about 4-5 minutes).
+
+\n6. Scoop out the garlic and peppercorns from the marinade and add to the onion. Saute for a few minutes.
+
+\n7. Add in the browned chicken, stir for a minute then add the rest of the marinade, stir and cook for about a minute.
+
+\n8. Stir in the Tomato Sauce and bell pepper. Bring to boil then turn down the heat.
+
+\n9. Add the fresh chilli, simmer until meat is almost done, Now add the Liver Spread and mix well to combine.
+
+\n10. Add potatoes and peas. Simmer until potatoes are cooked.
+
+\n11. Add grated cheese, mix well until cheese has melted.
+
+\n12. Taste the Kaldereta sauce and add salt to correct seasonings, you can now add the Hot Chilli Sauce if preferred.
+\nServe warm with Rice.</string>
+    //Chicken Pyanggang
+    <string name="pyanggangIngredients">
+\n2 chicken, use leg quarters
+\n2 chicken, use chicken thighs
+\n1/4 cup coconut (buko), burnt and ground
+\n1 1/2 tablespoons red onion, chopped
+\n1 piece lemongrass bulb (tanglad), (use stalk part), white part only
+\n1 tablespoon luyang dilaw, chopped
+\n2 tablespoons garlic, chopped
+\n1 tablespoon ginger, chopped
+\n1 teaspoon cilantro stems, chopped
+\n3 tablespoons spring onions, chopped
+\n1 1/2 teaspoons canola oil
+\nsalt, to taste
+\nfinger chilies (siling pangsigang), Optional
+\n2 tablespoons canola oil
+\n1 tablespoon garlic, chopped
+\n2 tablespoons white onion, chopped
+\n1 piece lemongrass (tanglad), white part only, bruise with the back of a knife
+\n1 tablespoon ginger, sliced
+\n1 teaspoon fish sauce (patis)
+\ncoconut curry paste
+\n1 cup coconut milk (gata)
+\n1/2 cup coconut cream (kakang gata)
+\nsalt, to taste
+\nfinger chilies (siling pangsigang), optional, add for a spicy sauce</string>
+    <string name="pyanggangDesc">
+\n1. Method for burnt coconut flesh:If you can get your coconut market vendor to separate the flesh from the husk, discard the husks and burn the flesh directly over your charcoal grill until black on both sides-burnt. If you cant get them separated, break niyog in half or quarters then burn all sides directly over charcoal until you can separate the husk and then continue to burn the flesh until burnt black on both sides.
+\n2. Grind the burnt coconut flesh in a food processor or use a mortar and pestle. Use as needed.
+\n3. To make the paste: combine burnt coconut, red onion, lemongrass stalk, fresh turmeric, garlic, ginger, cilantro stems, spring onions, canola oil, and green chili (optional) and pound on a mortar and pestle. Mix well until you have a paste. Season to taste. Take half of the paste and combine with the chicken, mix well and marinate for about 4 hours.
+\n4. Heat oil in a pan over medium high heat and sear the chicken on all sides until lightly brown then remove the chicken from the pan. On the same pan, sauté garlic, onions, lemongrass, ginger, patis, and the rest of the paste.</string>
+    // BEEF RECIPES
+    //Bulalo
+    <string name="bulaloIngredients">
+\n3 pounds bone-in beef shanks
+\ncold water
+\n1 large onion, peeled and quartered
+\n2 tablespoons fish sauce
+\n1 tablespoon peppercorns
+\n2 corn, husked and cut into halves
+\n1 bunch pechay, leaves separated
+\n2 green onions, stemmed and cut into halves
+\nsalt to taste
+\nDipping Sauce
+\nfish sauce to taste
+\ncalamansi juice to taste
+\nThai chili peppers, chopped</string>
+    <string name="bulaloDesc">
+\n1. In a large pot, combine beef shanks and enough cold water to cover. Bring to a boil.
+\n2. Drain beef and rinse under cold water to remove impurities. Discard the liquid and rinse the pot.
+\n3. In the pot, return meat and enough cold water to cover. Bring to a boil, skimming scum that accumulates on top.
+\n4. When the broth has cleared, add onions, fish sauce, and peppercorns.
+\n5. Lower heat, cover, and cook at a bare simmer for about 1 1/2 to 2 hours or until meat is fork-tender but not falling apart.
+\n6. Add corn and simmer for 10 to 15 minutes or until corn is tender.
+\n7. Add the pechay and green onions and cook for about 2 to 3 minutes or until vegetables are tender.
+\n8. Season with salt to taste. Serve hot with fish sauce and calamansi.!</string>
+    //Beef Curry
+    <string name="beefCurryIngredients">
+\n1/4 cup canola oil
+\n2 medium potatoes, peeled and cut into 2-inch cubes
+\n2 large carrots, peeled and cut into 2-inch cubes
+\n1 onion, peeled and chopped
+\n4 cloves garlic, peeled and minced
+\n1 thumb-size ginger, peeled and julienned
+\n3 pounds beef chuck roast, cut into 2-inch cubes
+\n1 tablespoon fish sauce
+\n2 cups water
+\n1 can (13.5 ounces) coconut milk
+\nsalt and pepper to taste
+\n2 tablespoons curry powder
+\n1/2 red bell pepper, cored, seeded and cut into strips
+\n1/2 green bell pepper, cored, seeded and cut into strips</string>
+    <string name="beefCurryDesc">
+\n1. In a pot over medium heat, heat oil. Add potatoes and cook for about 3 to 4 minutes or until lightly browned and tender. Remove from pan and drain on paper towels.
+\n2. Add carrots and cook for about 1 to 2 minutes. Remove from pan and drain on paper towels.
+\n3. Remove excess oil from pot except for about 2 tablespoons. Add beef in a single layer and sear for about 2 to 3 minutes on each side.
+\n4. Add onions, garlic, and ginger and cook until softened.
+\n5. Add fish sauce and continue to cook for about 2 to 3 minutes.
+\n6. Add water and bring to a boil, skimming scum that floats on top. Lower heat, cover and simmer for about 1 to 1 1/2 hours or until beef is tender.
+\n7. Add coconut milk and continue to simmer until liquid is slightly reduced.
+\n8. Add potatoes and carrots and cook for about 3 to 5 minutes or until fork-tender.
+\n9. Add curry powder and cook, stirring to combine, for about 3 to 5 minutes or until sauce starts to thicken. Season with salt and pepper to taste.
+\n10. Add bell peppers and cook for about 1 minute or until tender yet crisp.
+\nServe hot.</string>
+    //Beef Afritada
+    <string name="beefAfriIngredients">
+\n1/4 cup canola oil
+\n2 medium potatoes, peeled and quartered
+\n1 large carrot, peeled and cut into cubes
+\n½ green bell pepper, seeded and cut into 1-inch cubes
+\n½ red bell pepper, seeded and cut into 1-inch cubes
+\n2 pounds beef chuck, cut into 2- inch cubes
+\n1 onion, peeled and chopped
+\n4 cloves garlic, peeled and minced
+\n1 tablespoon fish sauce
+\n1 can (15 ounces) crushed tomatoes
+\n2 tablespoons tomato paste
+\n2 cups water
+\nsalt and pepper to taste</string>
+    <string name="beefAfriDesc">
+\n1. In a skillet over medium heat, heat oil. Add potatoes and carrots and cook, turning once or twice until lightly browned. Remove from pan and drain on paper towels.
+\n2. Add bell peppers and cook for about 30 to 45 seconds. Remove from pan and drain on paper towels.
+\n3. Remove oil from the pan except for about 2 tablespoons. Increase heat to medium-high heat. Add beef and cook for about 1 to 2 minutes, turn and cook for another 1 to 2 minutes or until lightly browned. Remove from heat and keep warm.
+\n4. Add another tablespoon of oil if needed. Add onions and garlic and cook, stirring regularly until softened.
+\n5. Add beef.
+\n6. Add fish sauce and cook for about 1 to 2 minutes.
+\n7. Add crushed tomatoes, water, and tomato paste. Stir until well-distributed and bring to a boil.
+\n8. Lower heat, cover, and cook for about 1 1/2 to 2 hours or until beef is tender.  Add more water in 1/2 cup increments as needed if the sauce is drying out before the meat is tender.
+\n9. Add potatoes and carrots and continue to cook for about 4 to 5 minutes or until vegetables are tender and sauce is thickened and reduced as desired.
+\n10. Add bell peppers and cook for about 1 minute or until tender yet crisp.
+\n11. Season with salt and pepper to taste. Serve hot.</string>
+    //Beef Caldereta
+    <string name="beefCaldeIngredients">
+\n1/4 cup canola oil
+\n2 large potatoes, peeled and cut into 2-inch cubes
+\n2 large carrots, peeled and cut into 2-inch cubes
+\n1 onion, peeled and chopped
+\n4 cloves garlic, peeled and minced
+\n2 pounds bottom round roast, cut into 2-inch cubes
+\n2 cups tomato sauce
+\n2 tablespoons tomato paste
+\n2 cups water
+\n10 Thai chili peppers, minced
+\n1/2 cup green olives, pitted
+\n1/2 cup liver spread
+\n1/2 cup cheddar cheese, shredded
+\n1 small green bell pepper, seeded, cored and cut into cubes
+\n1 small red bell pepper, seeded, cored and cut into cubes
+\nsalt and pepper to taste</string>
+    <string name="beefCaldeDesc">
+\n1. In a wide pan over medium heat, heat oil. Add potatoes and carrots and cook until lightly browned. Remove from pot and drain on paper towels.
+\n2. Remove oil from the pan except for about 2 tablespoons. Add onions and garlic and cook until softened.
+ \n3. Add beef and cook, stirring occasionally, until lightly browned.
+\n4. Add tomato sauce, tomato paste, water, and chili peppers. Bring to a boil, skimming scum that may float on top.
+\n5. Season with salt and pepper to taste.
+\n6. Lower heat, cover, and cook for about 1 to 1 1/2 hours or until beef is tender.
+\n7. Add potatoes, carrots, and continue to cook until tender.
+\n8. Add liver spread and cheese, stirring to combine until well-distributed. Continue to cook until cheese is melted and sauce is thickened.
+\n9. Add bell peppers and olives cook for another 1 to 2 minutes until tender yet crisp. Serve hot.</string>
+    //Beef Mechado
+    <string name="beefMechaIngredients">
+\n2 pounds beef, cut into 2-inch cubes
+\n1/4 pound beef fat, cut into thin strips
+\n1/4 cup oil
+\n2 medium potatoes, peeled and quartered
+\n2 medium carrots, peeled and cut into 2-inch cubes
+\n1 onion, peeled and chopped
+\n5 cloves garlic, peeled and minced
+\n1/4 cup lemon or calamansi juice
+\n1/4 cup soy sauce
+\n1 cup tomato sauce
+\n2 cups water
+\n2 bay leaves
+\n1 small green bell pepper, seeded and cut into cubes
+\n1 small red bell pepper, seeded and cut into cubes
+\nsalt and pepper to taste</string>
+    <string name="beefMechaDesc">Add one and half cup of water
+\n1. Cut a thin incision in the center of each beef cubes and gently insert a strip of pork fat. Set aside.
+\n2. In a pot over medium heat, heat oil. Add potatoes and carrots and cook until lightly browned. Remove from pot and drain on paper towels.
+\n3. Remove oil from the pot except for about 2 tablespoons. Add onions and garlic and cook until softened.
+\n4. Add beef and cook, stirring occasionally, until lightly browned.
+\n5. Add lemon or calamansi juice and soy sauce and continue to cook for about 2 to 3 minutes.
+\n6. Add tomato sauce, water, and bay leaves. Bring to a boil, skimming scum that may float on top.
+\n7. Lower heat, cover, and cook for about 1 1/2 to 2 hours or until beef is tender. If drying out before beef is tender, add additional water in 1/2 cup increments as needed.
+\n8. Add bell peppers and continue to cook for about 1 to 2 minutes or until tender-crisp.
+\n9. Season with salt and pepper to taste. Serve hot.</string>
+    //Beef Pares
+    <string name="beefParesIngredients">
+\nFor The Broth
+\n2 pounds beef brisket, cut into 1 1/2-inch cubes
+\n6 cups water
+\n1 onion, peeled and quartered
+\n4 cloves garlic, peeled and pounded
+\n1 teaspoon peppercorns
+\n2 bay leaves
+\n1 tablespoon salt and more as needed
+\ngreen onions, chopped
+\npepper to taste
+\nFor The Beef Asado
+\n1 tablespoon canola oil
+\n1 onion, peeled and chopped
+\n3 cloves garlic, peeled and minced
+\n1 thumb-size ginger, peeled and julienned
+\n1 cup broth (reserved from cooking the beef)
+\n1/4 cup soy sauce
+\n1/4 cup brown sugar
+\n2 pieces star anise
+\nsalt and pepper to taste
+\nFor The Garlic Fried Rice
+\n4 cups day-old cold rice
+\n1/4 cup canola oil
+\n5 garlic cloves, peeled and minced
+\nsalt and pepper to taste</string>
+    <string name="beefParesDesc">
+\nFor The Broth
+\n1. In a pot over medium heat, bring about 2 quarts of water to a boil. Add beef brisket and boil, skimming scum that floats on top, for about 8 to 10 minutes. Drain beef, discarding liquid. Rinse meat and pot well.
+\n2. Return meat to clean pot and add 6 cups of cold water. Over medium heat, bring to a boil. Skim scum that floats on top.
+\n3. When water is clear of scum,, add quartered onions, pounded garlic, peppercorns, bay leaves, and 1 tablespoon salt.
+\n4. Lower heat, cover, and simmer for about 2 to 2 1/2 hours or until meat is tender. With a slotted spoon, remove meat from broth. Keep broth on low heat.
+\nFor The Beef Asado
+\n1. In a skillet over medium heat, heat 1 tablespoon of oil. Add the chopped onions, minced garlic, and ginger. Cook, stirring regularly, until softened.
+\n2. Add beef and cook for about 2 to 3 minutes or until lightly browned.
+\n3.In a bowl, combine 1 cup of the reserved broth (from cooking the beef), soy sauce, and brown sugar. Stir until sugar is dissolved and add to skillet.
+\n4. Add star anise.
+\n5. Bring to a simmer, stirring to coat meat with sauce. Cook, stirring occasionally, for about 8 to 10 minutes or until liquid is reduced and meat is fork-tender.
+\nFor The Garlic Fried Rice
+\n1. In a bowl, break cold rice to separate grains.
+\n2. In a wide skillet over low heat, heat about 1/4 cup oil. Add garlic and cook, stirring occasionally until golden brown. With a slotted spoon, remove from pan and drain on paper towels. Remove excess oil except for about 1 to 2 tablespoons.
+\n3. Raise heat to high, swirling the oil to coat the surface of the pan.
+\n4. Add rice and cook, spreading on the surface of the pan for about 45 seconds or until grains start to sizzle and then tossing to redistribute. Repeat a few times until rice is heated through.
+\n5. Season with salt and pepper to taste.
+\nTo Serve Beef Pares
+\n1. Ladle broth into serving bowls and garnish with green onions.
+\n2. On serving plates, divide garlic fried rice and the braised beef. Serve hot with the beef broth.In a pot over medium heat, bring about 2 quarts of water to a boil. Add beef brisket and boil, skimming scum that floats on top, for about 8 to 10 minutes. Drain beef, discarding liquid. Rinse meat and pot well.
+\n3. Return meat to clean pot and add 6 cups of cold water. Over medium heat, bring to a boil. Skim scum that floats on top.
+\n4. When water is clear of scum,, add quartered onions, pounded garlic, peppercorns, bay leaves, and 1 tablespoon salt.
+\n5. Lower heat, cover, and simmer for about 2 to 2 1/2 hours or until meat is tender. With a slotted spoon, remove meat from broth. Keep broth on low heat.
+\nFor The Beef Asado
+\n1. In a skillet over medium heat, heat 1 tablespoon of oil. Add the chopped onions, minced garlic, and ginger. Cook, stirring regularly, until softened.
+\n2. Add beef and cook for about 2 to 3 minutes or until lightly browned.
+\n3. In a bowl, combine 1 cup of the reserved broth (from cooking the beef), soy sauce, and brown sugar. Stir until sugar is dissolved and add to skillet.
+\n4. Add star anise.
+\n5. Bring to a simmer, stirring to coat meat with sauce. Cook, stirring occasionally, for about 8 to 10 minutes or until liquid is reduced and meat is fork-tender.
+\nFor The Garlic Fried Rice
+\n1. In a bowl, break cold rice to separate grains.
+\n2. In a wide skillet over low heat, heat about 1/4 cup oil. Add garlic and cook, stirring occasionally until golden brown. With a slotted spoon, remove from pan and drain on paper towels. Remove excess oil except for about 1 to 2 tablespoons.
+\n3. Raise heat to high, swirling the oil to coat the surface of the pan.
+\n4. Add rice and cook, spreading on the surface of the pan for about 45 seconds or until grains start to sizzle and then tossing to redistribute. Repeat a few times until rice is heated through.
+\n5. Season with salt and pepper to taste.
+\n6. To Serve Beef Pares
+\n7. Ladle broth into serving bowls and garnish with green onions.
+\n8. On serving plates, divide garlic fried rice and the braised beef. Serve hot with the beef broth.</string>
+    //Filipino Beef Tapa
+    <string name="beefTapaIngredients">
+\n1/2 cup soy sauce
+\n1/4 cup calamansi juice
+\n1 head garlic, peeled and minced
+\n2 tablespoons sugar
+\n1/2 teaspoon salt
+\n1/4 teaspoon pepper
+\n3 pounds beef sirloin, thinly sliced
+\ncanola oil</string>
+    <string name="beefTapaDesc">
+\n1. In a non-reactive bowl, combine soy sauce, calamansi juice, garlic, sugar, salt, and pepper. Stir until sugar and salt are dissolved.
+\n2. Add beef and massage to fully coat with marinade. Keep overnight in the refrigerator to cure. Drain meat from marinade.
+\n3. In a wide pan over medium heat, heat about 1 tablespoon oil.
+\n4. Add beef in a single layer and cook, turning on sides, for about 3 to 5 minutes or until liquid (meat will dispel liquid) is almost absorbed.
+\n5. Add another 1 tablespoon of oil and continue to cook until meat is lightly browned.
+\n6. Remove from pan and cut into serving portions. Serve hot.</string>
+    //Tiyula Itum
+    <string name="tyulaitumIngredients">
+\n1 kg beef brisket, cubed
+\n1/2 cup grated coconut meat
+\n4 stalks lemongrass, white section only pounded
+\n3 birds eye chillies, finely chopped
+\n4 cups beef stock
+\n1 thumb sized ginger, thinly sliced
+\n1/2 thumb sized turmeric, thinly sliced
+\n6 cloves garlic, minced
+\n3 pcs shallots, thinly sliced
+\nsalt
+\nfreshly ground black pepper
+\noil</string>
+    <string name="tyulaitumDesc">
+\n1. Place coconut meat on an aluminium lined baking tray. Place in the oven on the highest grill setting, cook until brunt. It should be black burnt, let it cool then place in a food processor to make into powder.
+\n2. Season beef with salt and freshly ground black pepper.
+\n3. In a pot heat oil then brown beef pieces on all sides, in batches. Remove beef pieces then set it aside.
+\n4. In the same pot add oil if needed, then sauté garlic, shallots, ginger, turmeric, chillies and burnt coconut powder.
+\n5. Add the beef back together with the lemongrass then pour the beef stock. Bring to a boil then simmer for 1 1/2 hours in low heat.
+\n6. Season with salt and freshly ground black pepper then serve.
+</string>
+
+    //SEAFOOD RECIPES
+    //Ginataang Alimasag
+    <string name="ginataanAliIngredients">
+\n6 blue crabs
+\nwater for steaming
+\n1 tablespoon canola oil
+\n1 onion, peeled and chopped
+\n5 cloves garlic, peeled and minced
+\n1 thumb-size ginger, peeled and julienned
+\n4 Thai chili peppers
+\n1 tablespoon fish sauce
+\n4 cups coconut milk
+\n1 small calabasa, peeled, seeded and cut into cubes
+\n1 bunch long beans
+\n1 cup coconut cream
+\nsalt and pepper to taste</string>
+    <string name="ginataanAliDesc">
+\n1. Under cold running water, wash crabs well. Scrub shells with a kitchen brush to rid of dirt and grime.
+\n2. In a steamer basket, arrange crabs belly side down and sprinkle with salt to taste. Place steamer basket in a pot filled with water. Over medium heat, steam crabs for about 20 to 25 minutes or until color changes to orange. Remove from heat.
+\n3. In a wide pan or skillet over medium heat, heat oil. Add onions, garlic, and ginger. Cook until softened.
+\n4. Add fish sauce and cook for about 1 to 2 minutes.
+\n5. Add coconut milk and simmer until reduced.
+\n6. Add calabasa and cook for about 3 to 5 minutes or until half-cooked.
+\n7. Add sitaw and cook for about 2 to 3 minutes.
+\n8. Add steamed crabs.
+\n9. Add coconut cream and chili peppers. Stir to combine.
+\n10. Continue to cook, regularly spooning sauce over crabs, for about 8 to 10 minutes or until sauce is thickened and vegetables are tender.
+\n11. Season with salt and pepper to taste. Serve hot.</string>
+    //Ginataang Hipon
+    <string name="ginataangHiponIngredients">
+\n1 tablespoon canola oil
+\n1 onion, peeled and chopped
+\n1 thumb-size ginger, peeled and julienned
+\n4 cloves garlic, peeled and minced
+\n1 tablespoon fish sauce
+\n1 can (13.5 ounces) coconut milk
+\n2 Thai chili peppers or Finger chili peppers
+\n1 pound large shrimps, tendrils trimmed
+\nsalt and pepper to taste</string>
+    <string name="ginataangHiponDesc">
+\nIn a pot, heat oil over medium heat. Add onions, ginger, garlic, and cook, stirring regularly, until softened.
+\nAdd fish sauce and continue to cook, stirring regularly, for about 1 minute.
+\nAdd coconut milk and chili peppers and bring to a simmer. Lower heat and continue to cook for about 10 to 15 minutes or until reduced in half and starts to render fat.
+\nAdd shrimp. Cook, stirring occasionally, until shrimp change color and are cooked through and sauce is thickened.
+\nSeason with salt and pepper to taste. Serve hot.</string>
+    //Crispy Breaded Shrimp
+    <string name="breadedShrimpIngredients">
+\n1 pound small shrimp (71/90), peeled and deveined
+\n3/4 cup flour
+\n1/4 cup cornstarch
+\n1 teaspoon salt
+\n1/2 teaspoon pepper
+\n1/2 teaspoon paprika
+\n1/2 teaspoon garlic powder
+\n2 eggs
+\n2 tablespoons milk
+\n1 teaspoon hot sauce
+\ncanola oil</string>
+    <string name="breadedShrimpDesc">
+\n1. Rinse shrimp under cold running water and pat dry.
+\n2. On a shallow plate, combine flour, cornstarch, salt, pepper, paprika, and garlic powder. Stir until evenly dispersed.
+\n3. In a large bowl, combine eggs, milk, and hot sauce. Whisk until well blended and frothy.
+\n4. In a deep, wide skillet over medium heat, heat about 3 inches deep of oil.
+\n5. Working in batches, lightly dredge shrimps in flour mixture, shaking off excess.
+\n6. Dip in the egg mixture and then dredge again in flour mixture, patting down flour onto shrimp.
+\n7. Gently add into hot oil one by one (to prevent clumping) and deep-fry, turning as needed, for about 3 to 5 minutes or until golden and crisp.
+\n8. With a slotted spoon, remove from pan and drain on a wire rack set over a baking sheet. Season with chili powder and drizzle with lime juice, if desired. Serve immediately.</string>
+    //Ginisang Pusit
+    <string name="ginisingPusitIngredients">
+\n2 pounds squid
+\n1/2 cup vinegar
+\n4 cloves garlic, peeled and minced
+\n1/2 teaspoon peppercorns, cracked
+\n1 bay leaf
+\n2 tablespoons canola oil
+\n1 onion, peeled and thinly sliced
+\n2 large Roma tomatoes, chopped
+\n1 tablespoon fish sauce
+\nsalt and pepper to taste</string>
+    <string name="ginisingPusitDesc">\n1. Hold the tail tube portion of the squid and with fingers and pull the cuttlebone (the thin, clear cartilage inside the tube) from inside the body, leaving the ink sack intact. Rinse squid thoroughly and drain well.
+\n2. In a pot over medium heat, combine squid, vinegar, 2 cloves of the garlic, peppercorns, and bay leaf. Bring to a boil for about 3 to 5 minutes or just until squid changes color.
+\n3. Remove from heat and drain, reserving about 1 cup of the liquid.
+\n4. In a pan over medium heat, heat 1 tablespoon of the oil. Add onions and the remaining 2 cloves garlic and cook until softened.
+\n5. Add tomatoes and cook, mashing with the back of a spoon, until softened.
+\n6. Add fish sauce and cook for about 1 to 2 minutes.
+\n7. Add squid and cook, stirring regularly, for about 1 minute.
+\n8. Add reserved liquid and continue to cook until squid is cooked through and sauce is reduced.
+\n9. Add the remaining tablespoon of oil and toss.
+\n10. Season with salt and pepper to taste. Serve hot.
+    </string>
+    //Sisig Pusit
+    <string name="sisigPusitIngredients">
+\n2 (about 2 pounds) jumbo squid
+\nsalt and pepper to taste
+\n1 onion, peeled and diced
+\n2 cloves garlic, peeled and minced
+\n1 thumb-sized ginger, peeled and minced
+\n1/2 red bell pepper, seeded, cored, and diced
+\n1/2 green bell pepper, seeded, cored, and diced
+\n4 Thai chili peppers
+\n1/4 cup calamansi juice
+\n2 tablespoons Worcestershire sauce
+\n1 teaspoon brown sugar
+\n1 tablespoon butter
+\n1 tablespoon canola oil</string>
+    <string name="sisigPusitDesc">
+\n1. Hold the tail tube portion of the squid and with fingers, grasp the cuttlebone (the thin, clear cartilage inside the tube) and pull from the squid’s body. Remove black ink and discard. Wash the squid and drain well.
+\n2. Season squid with salt and pepper to taste. Let stand for about 10 to 15 minutes.
+\n3. Grill squid over hot coals for about 4 to 5 minutes on each side.
+\n4. Remove squid from heat and allow to cool to touch. Chop into bite-size pieces and keep warm.
+\n5. In a bowl, combine calamansi juice, Worcestershire sauce, brown sugar, and salt and pepper to taste. Stir until combined and set aside.
+\n6. In a wide, heavy-bottomed skillet over high heat, add butter and oil.
+\n7. Add onions, garlic, ginger, bell peppers, and chili peppers. Cook, stirring regularly, for about 30 to 40 seconds or until aromatic.
+\n8. Add squid and calamansi mixture. Toss quickly just until heated through.
+\n9. Season with salt and pepper to taste. Serve hot.</string>
+    //Spicy Tahong
+    <string name="spicyTahongIngredients">
+\n2 pounds mussels
+\n4 tablespoons olive oil
+\n1 head garlic, peeled and minced
+\n6 Thai chili peppers, stemmed and minced
+\n1 onion, peeled and sliced thinly
+\n1 bell pepper, cored, seeded, and cut into thin strips
+\n1/4 cup tomato sauce
+\n2 tablespoons dry sherry
+\nsalt and pepper to taste</string>
+    <string name="spicyTahongDesc">
+\n1. Soak the mussels in a bowl of cold water for about 30 minutes. Rinse and drain well. Pull the beard and byssus from the shell to remove.
+\n2. Place in a pot with enough water to cover. Bring to a boil just until the shells begin to open.
+\n3. Completely pry open the shells and using a small knife, cut the rubbery muscle which holds the mussel on the shell. Discard shells and set aside the meat.
+\n4. In a wide pan over medium heat, warm olive oil. Add garlic and chili peppers and cook, stirring regularly, for about 1 to 2 minutes or until fragrant.
+\n5. Increase the heat to high. Add onions and bell pepper and cook, stirring regularly, for about 1 minute or until tender yet crisp.
+\n6. Add mussels and continue to cook for about 3 to 5 minutes.
+\n7. Add tomato sauce and wine. Continue to cook for about 4 to 5 minutes, stirring regularly. Season with salt and pepper to taste.</string>
+    //Sweet and Sour Fish
+    <string name="sweetAndSourFishIngredients">
+\n1 pound tilapia fillets, cut into 2-inch pieces
+\n2 tablespoons soy sauce
+\n1/2 cup flour
+\n1/2 cup cornstarch
+\nsalt and pepper to taste
+\n1 egg, well beaten
+\ncanola oil
+\n1 red bell pepper, seeded, cored, and cut into cubes
+\n1 onion, peeled and sliced thinly
+        \n
+\nFor Sweet And Sour Sauce
+\n1 cup pineapple juice
+\n½ cup rice vinegar
+\n¼ cup ketchup
+\n½ cup brown sugar
+\n1 tablespoon cornstarch
+\n1 teaspoon salt</string>
+    <string name="sweetAndSourFishDesc">
+\n1. In a bowl, combine fish and soy sauce. Marinate for about 30 minutes in the refrigerator. Drain well.
+\n2. In a bowl, whisk egg until frothy.
+\n3. In another bowl, combine flour, cornstarch, and salt and pepper to taste.
+\n4. Dredge fish fillets in flour mixture, dip in the beaten egg, and then dredge again in flour mixture to fully coat.
+\n5. In a pan over medium heat, heat about 1-inch deep of oil. Add battered fish fillets and cook, turning once or twice, until golden and cooked through. Remove from pan and drain on paper towels.
+\n6. In a bowl, combine pineapple juice, vinegar, ketchup, sugar, cornstarch, and salt. Stir until smooth.
+\n7. In a pan over medium heat, heat about 1 tablespoon oil. Add bell peppers and onions and cook, stirring regularly, until half cooked. Remove from pan and set aside.
+\n8. In the pan, add sauce mixture and bring to a boil, whisking regularly, for about 2 to 3 minutes or until thickened.
+\n9. Add bell peppers and onions and cook for about 1 minute or until tender yet crisp.
+\n10. Add fried fish fillets and cook and toss quickly just until coated with sauce. Serve hot.</string>
+    //Sweet and Sour Tilapia
+    <string name="TilapiasweetAndSourIngredients">
+\n2 pieces tilapia cleaned
+\n2 tablespoons Knorr Liquid Seasoning
+\n1 piece red bell pepper julienne
+\n1 piece green bell pepper julienne
+\n1 piece carrot julienne
+\n5 cloves garlic crushed
+\n1 piece onion sliced
+\n2 thumbs ginger julienne
+\n2 tablespoons cornstarch
+\n2 cups water
+\n5 1/2 tablespoons white vinegar
+\n8 tablespoons tomato ketchup
+\n7 tablespoons white sugar
+\n1 ¼ cup cooking oil
+\nSalt and ground black pepper to taste</string>
+    <string name="TilapiasweetAndSourDesc">
+\n1. Apply Knorr Liquid Seasoning all over the tilapia. Let it stand for 10 minutes so that the fish can absorb the flavor of the seasoning.
+\n2. Heat around 1 cup of cooking oil in a pan. Once the oil gets hot, fry the fish until the color turns golden brown. Flip to fry the opposite side. Remove from the pan. Place on a clean plate. Set aside.
+\n3. Make the sauce by heating 3 tablespoons of cooking oil in a cooking pot. Saute onion and garlic for 10 seconds. Add ginger. Saute for 12 seconds.
+\n4. Pour white vinegar and water. Let boil.
+\n5. Add tomato ketchup. Stir until it completely dilutes in the mixture.
+\n6. Add sugar. Stir until the sugar gets fully incorporated.
+\n7. Put carrots and bell peppers. Cook for 3 minutes.
+\n8. Combine cornstarch and 3 tablespoons water. Mix well. Pour into the cooking pot. Stir until sauce thickens.
+\n9. Season with salt and ground black pepper. Add a piece of tilapia and cook for 3 minutes.
+\n10. Transfer to a serving plate. Serve with rice. Share and enjoy!</string>
+
+    //VEGETABLES RECIPES
+    //Minatamis na Kamote
+    <string name="matamisKamoteIngredients">
+\n2 pounds (about 4 large pieces) Japanese sweet potatoes, peeled and cut into 2-inch cubes
+\n2 tablespoons butter, cubed
+\n1/2 cup brown sugar
+\n1/4 cup orange juice</string>
+    <string name="matamisKamoteDesc">
+\n1. Preheat oven to 375 F.
+\n2. In a baking dish, arrange sweet potatoes in a single layer.
+\n3. Sprinkle with brown sugar and dot with butter.
+\n4. Drizzle with orange juice.
+\n5. Cover the baking dish tightly with foil and bake in the oven for about 40 to 50 minutes or until tender.
+\n6. Remove from oven and gently toss to coat with glaze. Serve hot or cold.</string>
+    //Adobong Kangkong
+    <string name="kangkongAdoboIngredients">
+\n1 bunch kangkong
+\n1 tablespoon canola oil
+\n1 onion, peeled and sliced thinly
+\n6 cloves garlic, peeled and minced
+\n1/2 pound pork belly, , cut into 1/2 inch thick strips
+\n1/2 cup vinegar
+\n1/4 cup soy sauce
+\n1/2 cup water
+\npepper to taste</string>
+    <string name="kangkongAdoboDesc">
+\n1. Trim about 2 inches from the kangkong stalks and discard. Cut kangkong into 3-inch lengths, separating the sturdier stalks from the leaves. Wash thoroughly and drain well.
+\n2. In wide skillet over high heat, heat oil. Add onions and garlic and cook, stirring regularly, until softened.
+\n3. Add pork and cook, stirring regularly, until lightly browned.
+\n4. Add vinegar and bring to a boil. Continue to cook, without stirring, for about 2 to 3 minutes.
+\n5. Add soy sauce and water. Bring to a boil for about 1 to 2 minutes.
+\n6. Lower heat, cover, and cook for about 8 to 10 minutes or until pork is tender and sauce is reduced. Season with pepper to taste.
+\n7. Increase heat to high. Add kangkong stalks and cook for about 1 to 2 minutes.
+\n8. Add kangkong leaves and cook, stirring regularly, for another minute or until just wilted and covered with sauce.
+\n9. Season with salt and pepper to taste.
+\n10. Garnish with fried garlic bits, if desired. Serve hot.</string>
+    //Ginisang Ampalaya at Hipon
+    <string name="ginisangAmpalayaIngredients">
+\n4 medium ampalaya
+\n1 tablespoon canola oil
+\n1 onion, peeled and thinly sliced
+\n2 cloves garlic, peeled and minced
+\n2 large Roma tomatoes, chopped
+\n1 tablespoon fish sauce
+\n1/2 pound medium shrimp, peeled and deveined
+\n1 cup water
+\n2 eggs, beaten
+\n1/2 teaspoon sugar
+\nsalt and pepper to taste</string>
+    <string name="ginisangAmpalayaDesc">
+\n1. Cut ampalaya lengthwise and with a spoon, remove seeds and scrape off white pith. Sliced thinly and place in a bowl of cold water until needed. Drain well when ready to use.
+\n2. In a wide skillet over medium heat, heat oil. Add onions and garlic. Cook, stirring regularly, until softened.
+\n3. Add tomatoes and cook, mashing with the back of the spoon, until softened and release juice.
+\n4. Add fish sauce and cook for about 1 minute.
+\n5. Add shrimp and continue to cook, stirring occasionally, until shrimp starts to change color.
+\n6. Add water and bring to a boil.
+\n7. Add ampalaya and gently toss to combine. Cook for about 2 to 3 minutes or until tender yet crisp.
+\n8. In a thin stream, add eggs and gently stir to distribute. Continue to cook for about 1 minute or until eggs have set.
+\n9. Season with sugar, salt, and pepper to taste. Serve hot.</string>
+    //Ginisang Sayote
+    <string name="ginisangSayoteIngredients">
+\n1 tablespoon canola oil
+\n1 onion peeled and chopped, peeled and chopped
+\n2 cloves garlic, peeled and minced
+\n2 Roma tomatoes, chopped
+\n1/2 pound large shrimp, peeled, deveined and cut into 3 to 4 pieces
+\n1 cup hot water
+\n2 tablespoons oyster sauce
+\n4 sayote, peeled, cored, quartered and sliced on a bias
+\nsalt and pepper to taste</string>
+    <string name="ginisangSayoteDesc">
+\n1. In a wide pan over medium heat, heat oil. Add onions and garlic and cook until softened.
+\n2. Add tomato and cook, mashing with the back of a spoon, until softened and release juice.
+\n3. Add shrimp and cook just until the color changes to pink.
+\n4. Add water and oyster sauce. Stir to disperse and bring to a boil.
+\n5. Add sayote. Lower heat, cover, and simmer for about 8 to 10 minutes or until tender yet crisp.
+\n6. Season with salt and pepper to taste. Serve hot.</string>
+    //Ginisang Gulay
+    <string name="ginisangGulayIngredients">
+\n1 tablespoon canola oil
+\n1 onion, peeled and chopped
+\n2 cloves garlic, peeled and minced
+\n2 Roma tomatoes, chopped
+\n1/2 pound shrimp, peeled and deveined
+\n1 tablespoon fish sauce
+\n2 cups water
+\n1/2 small calabasa, peeled and cut into 1-inch cubes
+\n1 bunch long beans (sitaw), ends trimmed and cut into 3-inch lengths
+\n3 Thai eggplants, ends trimmed and quartered
+\n2 medium ampalaya, ends trimmed and cut into 3-inch lengths
+\n8 pieces okra, ends trimmed and cut into 3-inch lengths
+\n2 medium patola, peeled and cut into 1/2-inch rounds
+\nsalt and pepper to taste</string>
+    <string name="ginisangGulayDesc">
+\n1. In a pot over medium heat, heat oil. Add onions and garlic and cook until softened.
+\n2. Add tomatoes and cook, mashing with the back of a spoon until softened and release juices.
+\n3. Add shrimp and cook just until color changes.
+\n4. Add fish sauce and cook for about 1 minute.
+\n5. Add water and bring to a boil.
+\n6. Add calabasa and cook for about 3 to 5 minutes or until half-done.
+\n7. Add long beans and cook for about 2 to 3 minutes.
+\n8. Add eggplant, ampalaya, and okra, and cook for about 2 to 3 minutes.
+\n9. Add patola and cook for another 2 to 3 minutes or until vegetables are tender yet crisp.
+\n10. Season with salt and pepper to taste. Serve hot.</string>
+    //Ginisang Togue
+    <string name="ginisangTogueIngredients">
+\n1 tablespoon canola oil
+\n1 onion, peeled and sliced thinly
+\n2 cloves garlic, peeled and minced
+\n1/2 pound shrimp, peeled and deveined
+\n1 tablespoon fish sauce
+\n1 large carrot, peeled and cut thinly on a bias
+\n12 pieces green beans, ends trimmed and cut thinly on a bias
+\n1 package (16 ounces or about 4 cups) bean sprouts
+\nsalt and freshly-ground pepper to taste</string>
+    <string name="ginisangTogueDesc">
+\n1. In a wok or wide, heavy-bottomed skillet over high heat, heat oil. Add onions and garlic and cook until softened.
+\n2. Add shrimp and cook, stirring regularly, for about 1 to 2 minutes or just until color changes.
+\n3. Add fish sauce and cook for about 1 minute.
+\n4. Add carrots and green beans and cook, stirring regularly, for about 2 to 3 minutes or until tender yet crisp.
+\n5. Add bean sprouts and cook, stirring regularly, for about 1 to 2 minutes or just until heated through.
+\n6. Season with salt and pepper to taste. Remove immediately from heat and serve hot.</string>
+    //Ensaladang Pipino
+    <string name="ensaladangPipinoIngredients">
+\n1/2 cup vinegar
+\n2 tablespoons fish sauce
+\n1 teaspoon sesame oil
+\n1 tablespoon sugar
+\n1 teaspoon salt
+\n1 Thai chili pepper, minced
+\n1/2 teaspoon peppercorns, freshly cracked
+\n2 large cucumbers, washed and sliced thinly
+\n1 small red onion, peeled and sliced thinly</string>
+    <string name="ensaladangPipinoDesc">
+\n1. In a small bowl, combine vinegar, fish sauce, sesame oil, chilis, sugar, salt and peppercorns. Whisk together until sugar is dissolved.
+\n2. In a large bowl, combine cucumber and onions.
+\n3. Add vinegar mixture and toss gently.
+\n4. Chill in the refrigerator to allow flavors to meld.</string>
+    //Tortang Talong
+    <string name="tortaIngredients">
+\n4 pieces Chinese eggplant
+\n2 pieces raw eggs
+\n1 teaspoon salt
+\n6 tablespoons cooking oil</string>
+    <string name="tortaDesc">
+\n1. Grill the eggplant until the color of skin turns almost black
+\n2. Let the eggplant cool for a while then peel off the skin. Set aside.
+\n3. Crack the eggs and place in a bowl
+\n4. Add salt and beat
+\n5. Place the eggplant on a flat surface and flatten using a fork.
+\n6. Dip the flattened eggplant in the beaten egg mixture
+\n7. Heat the pan and pour the cooking oil
+\n8. Fry the eggplant (that was dipped in the beaten mixture). Makes sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat..</string>
+
+    //DESSERT RECIPES
+    //Ginumis
+    <string name="ginumisIngredients">
+\n1 cup pinipig, toasted
+\ngulaman
+\npanutsa syrup
+\n1 cup coconut cream
+\ncrushed ice
+\nFor The Gulaman
+\n2 bars (.70 ounce) agar-agar
+\n3 cups water
+\n1 cup sugar
+\n2 drops pandan extract
+\nFor The Panutsa Syrup
+\n1 piece (about 8 ounces) panutsa
+\n1 cup water</string>
+    <string name="ginumisDesc">
+\n1. In glasses, place sago, gulaman and pinipig.
+\n2. Add panocha syrup and coconut cream.
+\n3. Top with crushed ice. Garnish with additional pinipig, if desired.
+\nFor The Gulaman
+\n1. In a pot, soak agar agar in water for about 30 to 40 minutes. Bring to a boil over medium heat and cook, stirring regularly, until agar agar melts.
+\n2. Add sugar and stir to dissolve. Continue to cook for about 10 to 15 minutes or until agar agar is completely melted.
+\n3. Add pandan extract and stir to combine.
+\n4. Remove from heat. Pour into a flat dish and allow to cool until agar-agar is set and hardened.
+\n5. Cut into ½-inch cubes.
+\nFor The Panutsa Syrup
+\n1. In a saucepan, combine panutsa and water and cook, stirring occasionally, until completely dissolved.
+\n2. In a fine mesh sieve, strain syrup to rid of any impurities.
+\n3. Return back in the saucepan and continue to cook until slightly thickened..</string>
+    //Mango Jelly
+    <string name="mangoJellyIngredients">
+\n1/2 pack (48 grams) clear, unflavored Jelly Mix
+\n1/2 cup sugar
+\n3 cups water
+\n6 large ripe Manila mangoes
+\n1 cup all-purpose or table cream
+\n1/2 cup condensed milk
+\n1 cup cooked sago</string>
+    <string name="mangoJellyDesc">
+\n1. In a large pot, combine jelly mix, sugar, and 3 cups water. Over medium heat, cook while stirring into a near boil.
+\n2. Once it starts to boil, remove from heat and pour the jelly liquid into a baking dish. Allow to cool at room temperature and refrigerate for about 1 hour to completely set. Cut into 1-inch cubes.
+\n3. Peel mangoes and slice the flesh from the pits. Cut the flesh of the five mangoes into cubes and discard the pit and skin.
+\n4. In a food processor or blender, process the remaining mango into puree consistency.
+\n5. In a large bowl, combine all-purpose cream, condensed milk, and mango puree. Stir until blended.
+\n6. Add mango cubes, gelatin, and sago. Gently stir to distribute.
+\n7. Refrigerate for about 1 to 2 hours to chill. Serve cold.</string>
+    //Leche Flan
+    <string name="lechePlanIngredients">
+\n9 tablespoons sugar
+\n12 egg yolks, from large eggs
+\n1 can (14 ounces) sweetened condensed milk
+\n1 can (12 ounces) evaporated milk</string>
+    <string name="lechePlanDesc">
+\n1. Preheat oven to 375 F.
+\n2. Place 3 tablespoons of sugar in each of the three llaneras.
+\n3. Set llanera on the stove over low heat and using tongs, move repeatedly over flames until sugar is melted and turns into a golden liquid.
+\n4. Continuously tilt and swirl the llanera to ensure even melting and to distribute the liquid on the bottom of the mold. Remo
+\n5. Remove from heat and allow caramel to cool and harden. Repeat the process with the remaining llanera.
+\n6. In a bowl, combine egg yolks and condensed milk. Whisk to combine.
+\n7. Add evaporated milk, gently stirring in a circular motion until blended.
+\n8. Using a cheesecloth or fine-mesh sieve, strain egg-milk mixture to remove stray egg whites.
+\n9. Pour mixture into prepared llaneras and cover tighly with foil Arrange in a a wide, oven-safe dish with about 1-inch of water (bain marie or water bath)..
+\n10. Bake in the oven for about 50 minutes to 1 hour or until a toothpick inserted in the middle of custard comes out clean.
+\n11. Remove from oven, allow to cool, and refrigerate to chill and completely set.
+\n12. To serve, turn flan over on a serving plate, ending with caramel on top.</string>
+    //Chocolate Flan Cake
+    <string name="chocoflancakeIngredients">
+\n1 ounce butter, softened (for greasing the pan)
+\n1/4 cup dulce de leche (homemade or store-bought)
+\nFor The Chocolate Cake
+\n3/4 cup sugar
+\n5 ounces unsalted butter, softened
+\n1 egg, room temperature
+\n1 3/4 cup flour
+\n3/4 teaspoon baking powder
+\n3/4 teaspoon baking soda
+\n1/2 cup cocoa powder, unsweetened
+\n1 1/4 cup milk, room temperature
+\nFor The Flan
+\n1 can (14 ounces) condensed milk
+\n1 can (12 ounces) evaporated milk
+\n4 eggs
+\n1/2 tablespoon vanilla extract</string>
+    <string name="chocoflancakeDesc">
+\n1. Preheat oven to 350 F.
+\nMaking The Chocolate Cake Layer
+\n1. In a large mixing bowl, cream butter and sugar using an electric mixer until thick and fluffy.
+\n2. Add the egg and continue to beat.
+\n3. In a separate bowl, sift together the flour, cocoa powder, baking powder, and baking soda.
+\n4. Add half of the dry ingredient mixture into the creamed butter and sugar mixture. Add half of the milk.
+\n5. Beat the mixture until the dry ingredients are just moistened. Add the remaining half of the dry mixture and of the milk. Beat just until the ingredients are incorporated.
+\nMaking The Leche Flan Layer
+\n1. In a mixing bowl, combine condensed milk, evaporated milk, eggs, and vanilla extract. Stir until well incorporated.
+\n2. Using a fine-mesh sieve, strain the mixture into a spouted container.
+\nBaking The Chocoflan
+\n1. Grease a 12-cup bundt pan with softened butter.
+\n2. Add the dulce de leche, swirling to cover the bottom of the bundt pan. Set aside.
+\n3. Spoon the chocolate batter into the bundt pan on top of the dulce de leche, making sure to fill the pan evenly. Using an angled spatula, smoothen the top.
+\n4. Carefully pour the flan mixture into the bundt pan over the chocolate batter.
+\n5. Cover the bundt pan with aluminum foil, securing the edges.
+\n6. Set the bundt pan on a roasting pan and place it inside the oven. Carefully pour about two inches of hot water into the roasting pan.
+\n7. In a 350 F oven, bake the cake for about 60 minutes without opening the oven door to keep the steam from escaping. After 60 minutes, check for doneness by inserting a toothpick in the center of the cake. If it comes out with some soft chocolate cake crumbs, the cake is ready.
+\n8. Take the cake out of the oven and let it cool completely on the roasting pan. To release the cake, gently shake the roasting pan from side to side to loosen the cake.
+\n9. Invert a serving plate over the bundt pan and carefully turn it over. Gently lift the bundt pan from the plate, releasing the cake.
+\n10. Serve the flan cake right away or refrigerate to completely chill.</string>
+    //Mini Egg Pies
+    <string name="minieggpiesIngredients">
+\nFor The Crust
+\n8 ounces butter
+\n2 cups flour
+\n1 teaspoon salt
+\n2 tablespoons sugar
+\n1/4 cup ice water
+\nFor The Custard FIlling
+\n6 egg yolks
+\n1 can (12 ounces) evaporated milk
+\n1 can (14 ounces) sweetened condensed milk</string>
+    <string name="minieggpiesDesc">
+\n1. Cut butter into cubes and freeze for about 30 minutes to an hour.
+\n2. In a bowl, whisk together flour, salt, and sugar and chill in the refrigerator for about 30 minutes.
+\n3. Add butter to flour mixture. Cut the butter into the flour using a pastry blender or by pinching the fat into the flour mixture with hands. Work them together until resembling coarse cornmeal with pea-like, butter-speckled pieces.
+\n4. Slowly drizzle ice water to the flour-butter mixture and with hands, mix until just combined. Gently gather dough and press into a ball. If the dough is too crumbly and does not hold together, add more water a tablespoon at a time. DO NOT ADD TOO MUCH LIQUID and DO NOT OVERWORK DOUGH.
+\n5. Wrap dough with plastic wrap and chill in the refrigerator for at least 30 minutes or up to 2 hours.
+\n6. Preheat oven to 350 F.
+\n7. Meanwhile, in a bowl, combine egg yolks, evaporated milk, and condensed milk until blended. Using a cheesecloth, strain custard mixture.
+\n8. Divide dough into 12 balls. Place each ball between two sheets of parchment paper and with a rolling pin, gently flatten each ball into 4-inch diameter and 1/8-inch thickness.
+\n9. Spray holes of a 12-hole muffin pan with nonstick cooking spray. Lift each flattened dough and place into each muffin holes and with hands, gently press on sides and bottom. Trim off excess dough on edges.
+\n10. Pour custard mixture into prepared dough-lined muffin pan up to 3/4 full.
+\n11. Bake in a 350 F oven for about 20 to 25 minutes or until crust is golden and a toothpick inserted in the middle of custard comes out clean.
+\n12. Remove from oven and allow to cool before removing from pan. Best served at room temperature.</string>
+    //Yema Cake
+    <string name="yemaCakeIngredients">
+\nFor The Sponge Cake
+\n2 large eggs, whites and yolks separated
+\n1/2 cup sugar
+\n1/2 cup butter, room temperature
+\n1/2 cup milk
+\n1 cup cake flour
+\n2 teaspoons baking powder
+\n1 teaspoons vanilla extract
+\nFor The Yema Frosting
+\n2 cans (14 ounces each) sweetened condensed milk
+\n4 egg yolks
+\n4 tablespoons butter
+\nFor Topping/Garnish
+\n1/2 cup almond slivers
+\n1 cup grated cheese</string>
+    <string name="yemaCakeDesc">
+\nSPONGE CAKE
+\n1. Preheat the oven to 350°F. Line the bottom and sides of an 8-inch round pan with parchment paper and set aside.
+\n2. In a bowl, beat the egg whites using a mixer at low speed for 2 to 3 minutes or until soft peaks form.
+\n3. Gradually add 1/4 cup of the granulated sugar, a tablespoon at a time, while continuously beating. Once all sugar is added, turn up the speed to medium and continue beating the meringue until it forms stiff glossy peaks. Set aside.
+\n4. In a separate bowl, cream the butter and remaining 1/4 cup sugar for 3 minutes or until light in color.
+\n5. Add the yolks one at a time while continuously mixing for about 2 minutes.
+\n6. Add milk, cake flour, baking powder, and vanilla extract to the egg yolk mixture.  Beat until batter for about 2 minutes or until smooth.
+\n7. Gently fold in a third of the meringue into the egg yolk mixture and then add the remaining meringue and fold until well combined.
+\n8. Pour into prepared pan and bake for 30 minutes in the preheated oven or until a toothpick inserted in the center comes out clean.
+\n9. Remove from oven and let the cake cool in the pan for about 10 minutes before completely removing from pan to a cooling rack. Remove the parchment paper off the cake and let it cool down before frosting.
+\nFor The Yema Frosting
+\n1. In a bowl, combine condensed milk, egg yolks, and salt (if using). Whisk until well-blended and evenly colored.
+\n2. In a wide, nonstick pan over medium-low heat, heat butter until slightly melted and still warm (NOT hot).
+\n3. Add egg-milk mixture and stir well to combine.
+\n4. Cook, stirring regularly and scraping sides and bottom with a spoon, for about 15  to 20 minutes or until mixture thickens to a spreadable paste. Remove from heat and allow to cool.
+\nTO ASSEMBLE
+\n1. Once the sponge cake is completely cool, cut the horizontally into half.
+\n2. Spoon about 1/4 of the yema on top of the bottom cake half layer. Using a spatula, spread evenly to cover the surface with about 1/8-inch thick of yema filling.
+\n3. Place the top layer half of the sponge cake on top of the frosted cake layer.
+\n4. Scoop and spread enough yema frosting on top of the cake to cover the surface and make a frosting layer with about half-centimeter thickness.
+\n5. Set aside about 1/4 cup of the yema and using an offset spatula, spread to cover the sides of the cake.
+\n6. Scoop a handful of almond slivers and gently tap to the sides of the cake.
+\n7. Pipe the reserved 1/4 cup yema frosting on the top and at the bottom edges of the cake to decorate.
+\n8. Sprinkle the grated cheese on top of the cake.
+\n9. Serve immediately or chill in the fridge.</string>
+    //Pianono
+    <string name="pianonoIngredients">
+\n5 pieces eggs
+\n1/2 teaspoon cream of tartar (optional)
+\n1/2 cup granulated sugar
+\n1/2 cup milk
+\n1 teaspoon vanilla extract
+\n1/2 cup flour
+\n2 tablespoons cornstarch
+\n1 1/2 teaspoon baking powder
+\n3 tablespoons powdered sugar
+\nFILLING
+\n1 stick margarine, softened
+\n2 tablespoons granulated sugar</string>
+    <string name="pianonoDesc">
+\n1. Separate egg yolks from egg whites.
+\n2. In a bowl, beat the egg whites using a mixer at low speed for 1 minute or until frothy.
+\n3. Sprinkle the cream of tartar on top and continue beating until soft peaks form.
+\n4. Gradually add 1/4 cup of the granulated sugar, a tablespoon at a time, while continuously beating. Once all sugar is added, turn up the speed to medium and continue beating the meringue until it forms stiff glossy peaks.
+\n5. In a large bowl, cream together the egg yolks, the remaining 1/4 cup sugar, milk, and vanilla extract until it becomes light in texture and color.
+\n6. Sift the flour, cornstarch, and baking powder and add to the egg yolk mixture. Mix well.
+\n7. Gently fold in a third of the meringue into the egg mixture and then add the rest and fold until well combined.
+\n8. Pour the batter into a 15x10x1-inch pan lined with wax or parchment paper.
+\n9. Bake in a 375 F oven for about 15 minutes or until the cake is golden.
+\n10. Remove from the oven and loosen the edges of the cake. Transfer the cake including the wax paper to a rack and allow to cool.
+\n11. Dust a wax or parchment paper with powdered sugar and invert cake onto the paper. Gently peel the other wax paper off the cake.
+\n12. Beginning with the narrow side, roll the cake up together with the wax paper. Let it cool down completely, seam side down, for 10 to 15 minutes.
+\n13. Once the cake has cooled, gently unroll and spread cake with softened margarine and sprinkle with granulated sugar and re-roll.
+\n14. Cut into 1-inch thick slices to serve.</string>
+    //Puto
+    <string name="putoIngredients">
+\n1 egg white
+\n½ c (118.3 g) water
+\n½ c coconut milk
+\n110 g (1 c) rice flour
+\n6.5 g (2 tsp) baking powder
+\n112 g (1/2 c) white sugar
+\nVelveeta cheese cut into slices optional</string>
+    <string name="putoDesc">
+\n1. Preheat your steamer over medium heat on the stove.
+\n2. In a large mixing bowl, whisk the egg whites, water, and coconut milk until fully incorporated.
+\n3. Sift the rice flour and baking powder over the wet ingredients. Use the whisk to mix all the ingredients together.
+\n4. sifting flour for puto
+\n5. Pour the sugar into the batter and mix to combine.
+\n6. adding sugar to the batter
+\n7. Scoop the puto mixture into mini muffin molds to about ¾ of the way up. Place the molds into the steamer and cover with a lid.
+\n8. scooping batter into puto molds
+\n9. Steam for 8 minutes and remove the lid to see if the puto is fluffy and firm. If you would like to add cheese, cut the cheese into small ½ inch slices and place on top of the puto. Cover with the lid and allow it to melt for about 30 seconds. Remove when the cheese has slightly melted.
+\n10. steaming puto in a bamboo steamer
+\n11. Remove the puto from the steamer and let sit in the molds for 30 seconds to cool before removing them from the molds. Serve immediately.</string>
+
+    //PASTA RECIPES
+    //Filipino-style Spaghetti
+    <string name="pinoyStyleSpaghettiIngredients">
+\n1 pound uncooked spaghetti
+\n1 tablespoon oil
+\n4 Filipino-style hotdogs, sliced diagonally
+\n1 onion, peeled and chopped
+\n3 cloves garlic, peeled and minced
+\n1 bell pepper, seeded, cored and chopped
+\n1 pound ground beef
+\n2 cups tomato sauce
+\n1/2 cup tomato paste
+\n1 cup banana ketchup, preferably sweet and spicy
+\n1 cup beef broth
+\n1 teaspoon sugar
+\nsalt and pepper to taste
+\n1/2 cup quick-melt cheese, shredded</string>
+    <string name="pinoyStyleSpaghettiDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+    //Filipino-style Pasta Carbonara
+    <string name="pinoyStyleCarbonaraIngredients">
+\n1 pound uncooked spaghetti
+\n2 pounds bacon, chopped
+\n1 onion, peeled and chopped
+\n3 cloves garlic, peeled and minced
+\n1 pound fresh button mushrooms. sliced thinly
+\n2 tablespoons butter
+\n1 tablespoon flour
+\n1 cup chicken broth
+\n14 ounces all-purpose cream
+\n2 tablespoons Parmesan cheese and more for serving
+\n1 teaspoon freshly grated nutmeg
+\nsalt and pepper to taste
+\n1/4 cup fresh parsley, stemmed and chopped</string>
+    <string name="pinoyStyleCarbonaraDesc">Add one and half cup of water
+\n1. In a large pot over medium heat, bring about 4 quarts salted water to a boil. Add spaghetti and cook 1 minute shy of package directions. Remove from heat and drain well. Keep warm.
+\n2. In a wide pan over medium heat, add bacon. Cook, stirring occasionally, until it browns and crisps. With a slotted spoon, remove from heat and drain on paper towels.
+\n3. Discard the rendered fat except for about 1 tablespoon. Add onions and garlic and cook until softened.
+\n4. Add mushrooms and cook until softened. With a slotted spoon, remove the mushroom mixture from the pan and keep warm.
+\n5. Add butter to pan and heat until melted. Add flour and cook, stirring regularly, for about 1 to 2 minutes or until smooth and lightly browned.
+\n6. Slowly add chicken broth, whisking regularly to prevent lumps.
+\n7. Add cream. Lower heat and bring to a simmer. Continue to cook, whisking occasionally, until slightly thickened.
+\n8. Add Parmesan cheese and nutmeg. Season with salt and pepper to taste.
+\n9. Add pasta, bacon, and mushroom mixture. Toss to combine until pasta is coated with sauce and heated through.
+\n10. To serve, garnish with fresh parsley and additional Parmesan cheese. Serve hot.</string>
+    //Filipino-style Lasagna
+    <string name="pinoyStyleLasagnaIngredients">
+\n15 pieces uncooked lasagna noodles
+\n1 cup Cheddar Jack cheese, shredded
+\nFor The Meat Sauce
+\n1 tablespoon canola oil
+\n6 pieces Filipino-style hotdogs, sliced diagonally
+\nonion, peeled and chopped
+\n3 cloves garlic, peeled and minced
+\n1 red or green bell pepper, seeded, cored and chopped
+\n3 pounds ground beef
+\n24 ounces tomato sauce
+\n12 ounces banana ketchup
+\n1 cup beef broth
+\n3/4 cup tomato paste
+\n1 teaspoon Italian seasoning
+\n2 teaspoons sugar
+\nsalt and pepper to taste
+\nFor The Bechamel Sauce
+\n1 cup butter
+\n1 cup flour
+\n6 cups milk
+salt and pepper to taste</string>
+    <string name="pinoyStyleLasagnaDesc">
+For The Noodles
+1. In a large pot over medium heat, bring about 4 quarts salted water to a boil. Add lasagna noodles and cook for about 1 to 2 minutes less than package directions Rinse under cold running water and drain well.
+2. For The Meat Sauce
+3. In a large thick-bottomed pot over medium heat, heat oil. Add sliced hotdogs and cook, stirring occasionally, for about 1 to 2 minutes or until lightly browned. With a slotted spoon, remove from pan and set aside.
+4. Add onions and garlic and cook until softened.
+5. Add bell peppers and cook until softened.
+6. Add ground beef and cook, stirring occasionally and breaking into small pieces, for about 7 to 10 minutes until lightly browned. Drain excess fat, if any.
+7. Add tomato sauce, tomato paste, ketchup, and beef broth. Stir in sugar and Italian seasoning. Bring to a boil.
+8. Lower heat, cover and simmer for about 35 to 45 minutes or until meat is fully cooked and sauce is slightly thickened.
+9. During the last 10 minutes of cooking, add browned hotdogs. Season with salt and pepper to taste.
+For The Bechamel Sauce
+1. In a large saucepan over medium heat, melt butter.
+2. Add flour and stir well into a smooth paste. Cook, stirring regularly, for about 1 to 2 minutes or until golden (but NOT browned) and starts to bubble a bit.
+3. Slowly add milk in a thin stream, whisking vigorously until the mixture is very smooth and lump-free.
+4. Continue to cook, whisking regularly, for about 4 to 5 minutes or until thick but pourable. The sauce should be thick enough to coat the back of a spoon.
+5. Season with salt and pepper to taste.
+Assembly
+1. Grease bottom and sides of a large baking dish with nonstick cooking spray.
+2. Ladle about 1/2 cup of meat sauce and spread it to cover the bottom of the dish.
+3. Ladle bechamel sauce over the meat sauce and gently spread across.
+4. Arrange one layer of lasagna noodles lengthwise over the white sauce. Cut a piece of lasagna to fit into gaps as needed.
+5. Ladle a third of the remaining meat sauce over the noodles and spread across the surface.
+6. Ladle another layer of white sauce over the meat sauce
+7. Finish with a third layer of noodles, meat sauce, and bechamel.
+8. Sprinkle shredded cheese over the top and last layer of bechamel sauce.
+9. Tent the lasagna pan with foil and bake in a 375 oven for about 30 to 40 minutes or until completely heated through and cheese is melted.
+10. Remove from heat and allow to rest for about 15 to 20 minutes before cutting.</string>
+    //Baked Macaroni
+    <string name="bakedMacaroniIngredients">
+\n1 package (16 ounces) small elbow macaroni
+\nFor The Meat Sauce
+\n1 tablespoon canola oil
+\n3 Filipino-style hotdogs, sliced diagonally
+\n1 onion, peeled and diced
+\n4 cloves garlic, peeled and minced
+\n1/2 green bell pepper, seeded and chopped
+\n1/2 red bell pepper, seeded and chopped
+\n1 1/2 pounds ground beef
+\n2 cups tomato sauce
+\n1/2 cup tomato paste
+\n1 cup banana ketchup, preferably sweet and spicy
+\n1 cup beef broth
+\n1 teaspoon sugar
+\n1/2 teaspoon Italian seasoning
+\nsalt and pepper to taste
+\nFor The Cheese Topping
+\n1/3 cup butter
+\n3 cups milk
+\n16 ounces Eden Cheese (or any quick-melting cheese), cubed
+\n1 cup cheddar cheese, shredded
+\n1/4 teaspoon ground nutmeg
+\nsalt and pepper to taste</string>
+    <string name="bakedMacaroniDesc">
+\n1. In a large pot over medium heat, bring about 4 quarts salted water to a boil. Add macaroni and cook 1 to 2 minutes less than package’s directions. Rinse under cold running water and drain well.
+\nFor The Meat Sauce
+\n1. In a pot over medium heat, heat oil. Add sliced hotdogs and cook, stirring occasionally, for about 1 to 2 minutes or until lightly browned. Remove from pan and set aside.
+\n2. Add onions and garlic and cook until softened.
+\n3. Add bell peppers and cook until tender-crisp.
+\n4. Add ground beef and cook, stirring occasionally and breaking apart with the back of a spoon, for about 7 to 10 minutes until lightly browned. Drain any excess fat.
+\n5. Add tomato sauce, tomato paste, ketchup, and beef broth.
+\n6. Stir in sugar and Italian seasoning.
+\n7. Bring to a boil. Lower heat, cover and continue to cook for about one hour or until meat is fully cooked and sauce is thickened.
+\n8. During the last 10 minutes of cooking, add browned hotdogs. Season with salt and pepper to taste.
+\n For The Cheese Sauce
+\n1. In a skillet over medium heat, melt butter.
+v2. Add flour and stir well into a smooth paste. Cook, stirring regularly, for about 5 to 7 minutes or until golden (but NOT browned) and starts to bubble a bit.
+\n3. Gradually add milk to the roux, whisking vigorously to prevent lumps. Cook, whisking regularly, for about 2 to 3 minutes or until smooth and thick enough to coat the back of the spoon.
+\n4. Stir in nutmeg and salt and pepper to taste.
+\n5. Gradually add quick-melt and cheddar cheese, whisking regularly until melted. Cook until cheese sauce is thick but spreadable.
+\n To Assemble
+\n1. Grease bottom and sides of a 9 x 13 baking dish with nonstick cooking spray and set aside.
+\n2. In a large bowl, combine macaroni and meat sauce. Gently toss together until well-combined.
+\n3. Transfer pasta mixture into prepared dish. Spoon cheese sauce on top, spreading across to completely cover the pasta.
+\n4. Bake in a 375 oven for about 20 to 25 minutes or until hot and bubbly. Remove from oven and allow to cool for about 15 minutes before cutting into serving portions.</string>
+    //Filipino-style Macaroni Salad
+    <string name="pinoyStyleMacaroniSaladIngredients">
+\n1 pound uncooked medium elbow macaroni
+\n1 pound boneless, skinless chicken breast or thigh meat
+\n1 large carrot, peeled and diced
+\n1 cup ham, cubed
+\n6 hard-boiled eggs, peeled and coarsely chopped
+\n1 can (14 ounces) crushed pineapple
+\n1 cup Eden or Velveeta Cheese, cubed
+\n1/2 cup sweet pickle relish
+\n1 cup raisins
+\n1 onion, peeled and diced
+\n1 1/2 cups mayonnaise
+\n1/2 cup sweetened condensed milk
+\nsalt and pepper to taste</string>
+    <string name="pinoyStyleMacaroniSaladDesc">
+\n1. In a pot over medium heat, bring about 4 quarts salted water to a boil. Add macaroni and cook according to package directions for about 8 to 9 minutes or until firm to bite. Drain well and allow to cool completely.
+\n2. In a pot, add chicken meat and enough water to cover. Bring the water to a boil, skimming scum that floats on top. Lower heat, cover, and simmer for about 15 to 20 minutes or until cooked through. Drain from the liquid, allow to completely cool and shred. Set aside.
+\n3. In a pot, bring water to a boil. Add diced carrots and cook for about 30 seconds. With a slotted spoon, remove from water and plunge into an ice bath until completely cool. Drain and set aside.
+\n4. In a large bowl, combine macaroni, chicken, carrots, ham, eggs, crushed pineapple including packing juice, cheese, sweet pickle relish, raisins, onions, mayonnaise, and sweetened condensed milk. Gently stir together until evenly distributed.
+\n5. Season with salt and pepper to taste. Refrigerate for about 1 hour to cool completely and to allow flavors to meld.</string>
+    //Lemon Garlic Shrimp Pasta
+    <string name="garlicShrimpPastaIngredients">
+\n1 lb. shrimp deveined and shells removed
+\n½ lb fettuccine pasta
+\n7.6 ounces all-purpose cream
+\n½ lemon
+\n5 cloves garlic crushed and chopped
+\n15 grape tomatoes halved
+\n¼ cup parmesan cheese
+\n¼ cup butter
+\n2 tablespoons parsley chopped
+\n3 tablespoons olive oil
+\nSalt and ground black pepper to taste</string>
+    <string name="garlicShrimpPastaDesc">
+\n1. Cook pasta according to package instructions. You can add a teaspoon of salt before boiling. Set aside.
+\n2. Heat a pan. Pour-in olive oil. Add the shrimp once the oil gets hot. Saute for 2 minutes or until both sides of the shrimp turns orange in color. Remove the shrimp from the pan and transfer to a clean plate. Set aside.
+\n3. Heat the remaining oil (if applicable. Otherwise add 2 tablespoons of olive oil). Add 2 tablespoons of butter and continue cooking until the butter melts and starts to bubble.
+\n4. Add garlic. Cook while continuously stirring for 30 seconds.
+\n5. Add grape tomatoes. Continue sautéing for 1 minute.
+\n6. Pour the all-purpose cream into the pan and then add ¼ cup of pasta water (this is the water used to cook the fettuccine). Stir and then add the lemon zest. Let the mixture slowly boil (use medium heat setting). Continue cooking for 1 minute. Season with salt and ground black pepper.
+\n7. Toss the pasta into the pan. Add the shrimp, parsley, and remaining butter. Continue tossing until all ingredients are incorporated. Top with more parmesan cheese if desired.
+\n8. Serve warm. Share and enjoy!</string>
+    //Longganisa Pasta
+    <string name="longganisaPastaIngredients">
+\n6 CDO Skinless Longganisa cooked
+\n1 lb. penne pasta cooked
+\n1 lb. tomato sauce
+\n1 onion chopped
+\n4 cloves garlic minced
+\n1 teaspoon Italian Seasoning
+\n¼ teaspoon red pepper flakes
+\n1 tablespoon tomato paste
+\n½ cup cheddar cheese grated
+\n3 tablespoons cooking oil
+\nSalt and ground black pepper to taste</string>
+    <string name="longganisaPastaDesc">
+\n1. Heat oil in a pan. Sauté onion and garlic until the onion softens.
+\n2. Pour the tomato sauce into the pan. Let boil.
+\n3. Add Italian seasoning and red pepper flakes. Cover and continue cooking in low heat for 15 minutes.
+\n4. Thicken the sauce by adding tomato paste and then put the cooked penne pasta into the pan. Toss. Cook for 1 minute.
+\n5. Slice the longganisa into half and add these into the pan. Toss.
+\n6. Season with salt and ground black pepper. Add cheddar cheese.
+\n7. Transfer to a serving plate. Serve warm. Share and enjoy!</string>
+    //VEGETARIAN PANCIT BIHON
+    <string name="pancitbihonIngredients">
+\n4 cups vegetable stock
+\n8 oz 227 grams bihon noodles (Philippine rice noodles)
+\n1-2 tablespoons canola oil
+\n1 medium onion finely diced
+\n3 cloves garlic crushed
+\n1 lb trumpet mushrooms sliced into bite sized pieces
+\n6 oz firm tofu drained, dried, and cut into 1/2 inch pieces (optional)
+\n3 tablespoons soy sauce
+\n1 Tbsp vegetarian fish sauce substitute or regular fish sauce (see notes), to taste
+\nGround pepper to taste
+\n1 Chinese/Napa cabbage sliced
+\n2 carrots julienne cut
+\n2 stalks of celery sliced on bias
+\n1 cup snow peas
+\ncilantro for garnish
+\nlemon wedges for garnish</string>
+    <string name="pancitbihonDesc">
+\n1. Meanwhile, bring the stock to a boil in a large pot. Add noodles upon boiling, cook for about 3 minutes. Drain and set aside both stock and noodles.
+\n2. In a large wok, heat oil over medium-low heat. Sauté the onion and garlic. When the onion is transparent, add the mushrooms and tofu. Season with soy sauce, fish sauce, and pepper.
+\n3. Add vegetables, stirring occasionally. Add a little extra oil or reserved stock to avoid sticking. When the vegetables are crisp yet tender, add all the noodles and the stock one cup at a time, taking care to not let the noodles get too soggy. Stir well until well incorporated.
+\n4. Garnish with cilantro and serve with a squeeze of lemon.</string>
+
+    //Terms Of Use
+    <string name="terms_of_use">
+        \nWelcome to our Food Recipe Recommendation App! By using our app, you agree to the following terms of use:
+
+        \n1. Our app provides food recipe recommendations for your personal use only. You may not use our app for commercial purposes, such as selling or distributing our content without our permission.
+
+        \n2. The content provided in our app is for informational purposes only and is not intended as medical advice. Always consult your healthcare provider before making changes to your diet.
+
+        \n3. Our app uses data and algorithms to recommend recipes based on your preferences and previous selections. However, we cannot guarantee the accuracy or effectiveness of these recommendations.
+
+        \n4. You agree to use our app in a lawful and responsible manner, and to not engage in any activity that could damage, disable, overburden, or impair our servers or networks.
+
+        \n5. We may update our terms of use from time to time, and any changes will be effective immediately upon posting. By continuing to use our app after any changes, you accept the new terms.
+
+        \nBy using our app, you agree to these terms of use. If you do not agree to these terms, please do not use our app.
+    </string>
+    <string name="privacy_policy">
+        Privacy Policy
+
+\nAt our Food Recipe App, we understand the importance of protecting your personal information.
+
+\nWe may collect certain information about you, such as your device information, IP address, and usage data, solely for the purpose of improving the functionality and usability of our app.
+
+\nWe do not collect any personally identifiable information unless you choose to provide it to us voluntarily, such as through feedback or customer support inquiries. Any information you provide will be used solely for the purpose of responding to your inquiry or improving our app.
+
+\nWe will not share, sell, or rent your personal information to any third parties unless required by law. We may use your information to send you marketing communications, but only if you have explicitly opted-in to receive such communications.
+
+\nWe take all necessary measures to protect your personal information from unauthorized access, use, or disclosure. We use industry-standard security technologies and procedures to safeguard your data.
+
+\nIf you have any questions or concerns about our privacy policy or the handling of your personal information, please contact us at [insert contact information].
+
+\nBy using our Food Recipe App, you consent to the terms of our privacy policy. We reserve the right to update or modify our privacy policy at any time, so please check back periodically for any changes.
+\nIf you have any questions or concerns about this Privacy Policy, please contact us at samcena.902604@gmail.com.
+    </string>
+    <string name="about">  Features:
+        \n 1.Capture and Identify Ingredients
+       \n 2.Input 3 to 5 Ingredients to Generate Possible Recipes
+       \n 3.Capture 3 to 5 Ingredients to Generate Possible Recipes
+       \n 4.Has own database for Filipino Recipes
+    </string>
+    <string name="members">System Analyst:
+        \nRatunil, Garyzalby
+        \n
+        \nDeveloper:
+        \nSalasain, Ahmad M.
+        \n
+        \nProject Manager:
+        \nTinay, Marydel
+        \n
+        \nCapstone Adviser:
+        \nJustine Ann Albay
+        \n
+        \nFirst Develop in Flutter (Android Studio)
+        \nCurrently Developed in Java XML (Android Studio)
+        \n
+        \n\n\nemail us @samcena.902604@gmail.com
+    </string>
+    <string name="Input_Instructions">\n1.Input 3 minimum to 5 maximum Ingredients
+       \n\n 2.Press the Search Recipes Button to Generate Possible Recipe/Recipes.
+        \n
+    </string>
+    <string name="Capture_Instructions">\n1. Press the Camera Button
+       \n\n 2.Capture 3 minimum to 5 maximum Ingredients
+       \n\n 3.Press the Search Recipes Button to Generate Possible Recipe/Recipes.
+        \n
+    </string>
+</resources>

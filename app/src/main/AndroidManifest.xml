@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Recipic"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RecipicApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".ChickenBeefResultD"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenBeefResultC"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenBeefResultB"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenBeefResultA"
+            android:exported="false" />
+        <activity
+            android:name=".Chicken47BeefResult2345"
+            android:exported="false" />
+        <activity
+            android:name=".BeefResult2345"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenResult47"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultC4Beef345"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.OtherResultMultipleActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.OtherResultMultipleActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.OtherResultMultipleActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".VideoActivities.FullscreenVideo5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VideoActivities.FullscreenVideo4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VideoActivities.FullscreenVideo3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VideoActivities.FullscreenVideo2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".VideoActivities.FullscreenVideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BottomNavActivities.RecipeTutorialActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.PastaResult45"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.PastaResult12D"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.PastaResult12C"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.PastaResult12B"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.PastaResult12"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult78"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45J"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45I"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45H"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45G"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45F"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45E"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45D"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45C"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45B"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.SeafoodResult45A"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult78CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult78BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult78Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken18A"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken18"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.VegetableShrimpResult3456E"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.VegetableShrimpResult3456D"
+            android:exported="false" />
+        <activity
+            android:name=".CameraCaptureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.VegetableShrimpResult3456C"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.AdoboResult3"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.AdoboResult"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.VegetableResult3456B"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.OtherResult"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.Adobo2Result"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.VegetableResult3456"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.OtherResultMultipleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult2345BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456HActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult3456CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult3456BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345HActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345GActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456GActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345FActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult3456Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult13456CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345EActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456FActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456EActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResut3456Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345DActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456DActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult34567CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult13456BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult345Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult234567Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult34567Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult2345Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult123456Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult13456Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.BeefResult23456Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken16CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken1356BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken12CActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken16BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken126BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken12Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken12BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken14Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken27BActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken1356Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken67Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken27Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken16Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken1267Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken46Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken124Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken1345Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken1256Activity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherRecipes.ResultChicken126Activity"
+            android:exported="false" />
+        <activity
+            android:name=".InputIngredientsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe8"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".VegetablesRecipes.VegetableRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".SeafoodRecipes.SeafoodRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".DessertRecipes.DessertRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".PastaRecipes.PastaRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".ChickenRecipes.ChickenRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe7"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe6"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe5"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe4"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe3"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe2"
+            android:exported="false" />
+        <activity
+            android:name=".BeefRecipes.BeefRecipe1"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.ListAdapter"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.ListData"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.ChickenDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.ChickenRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.BeefDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.BeefRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.SeafoodDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.SeafoodRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.VegetablesDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.VegetablesRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.DessertDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.DessertRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewRecipes.PastaDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CardViewActivities.PastaRecipesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BottomNavActivities.AboutPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BottomNavActivities.MainFunctionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SidebarActivities.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SidebarActivities.PrivacyPolicyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SidebarActivities.TermsOfUseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SidebarActivities.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BottomNavActivities.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtherActivities.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

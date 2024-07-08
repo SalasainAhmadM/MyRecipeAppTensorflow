@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scaleType="centerCrop"
+    android:background="@color/cream"
+    tools:context=".LoginActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="100dp"
+            android:padding="20dp"
+            tools:ignore="UselessParent">
+
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="100dp"
+                android:src="@drawable/recipic"
+                android:layout_marginBottom="50dp"/>
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:text="LOGIN"
+                android:gravity="center"
+                android:fontFamily="@font/evogria"
+                android:textColor="@color/burgundy"
+                android:textSize="30sp"/>
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:id="@+id/login_email"
+                android:padding="8dp"
+                android:layout_marginTop="20dp"
+                android:hint="Email"
+                android:textColor="@color/black"
+                android:textColorHint="@color/cream"
+                android:drawableLeft="@drawable/baseline_email_24"
+                android:drawablePadding="8dp"
+                android:background="@drawable/cream_border"
+                android:fontFamily="@font/roboto"/>
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:id="@+id/login_password"
+                android:padding="8dp"
+                android:textColor="@color/black"
+                android:inputType="textPassword"
+                android:layout_marginTop="20dp"
+                android:textColorHint="@color/cream"
+                android:hint="Password"
+                android:drawableLeft="@drawable/baseline_lock_24"
+                android:drawablePadding="8dp"
+                android:background="@drawable/cream_border"
+                android:fontFamily="@font/roboto"/>
+
+
+            <Button
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:text="LogIn"
+                android:drawableLeft="@drawable/button"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/evogria"
+                android:id="@+id/login_button"
+                android:textSize="18dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/signupRedirectText"
+                android:text="Don't Have an Account? Register Now"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/burgundy"
+                android:fontFamily="@font/roboto"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/guest"
+                android:text="Guest Login"
+                android:layout_gravity="center"
+                android:padding="8dp"
+                android:textSize="12sp"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/evogria"/>
+
+
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_white"
+        android:title="Home"/>
+    <item
+        android:id="@+id/capture"
+        android:icon="@drawable/baseline_photo_camera_white"
+        android:title="Camera"/>
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/baseline_video"
+        android:title="Video"/>
+
+
+</menu>

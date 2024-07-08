@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream"
+    android:id="@+id/drawerLayout"
+    tools:context=".InputIngredientsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/toolbar"/>
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bottomNavigationView"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/bottombackground"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:elevation="2dp"
+            app:itemIconTint="@drawable/item_selector"
+            app:itemRippleColor="@android:color/transparent"
+            app:labelVisibilityMode="unlabeled"
+            android:layout_gravity="bottom"
+            app:menu= "@menu/bottom_menu"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp">
+
+        <ImageButton
+            android:id="@+id/instructions_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/information_icon"
+            android:background="@android:color/transparent"
+            android:layout_marginStart="30dp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="170dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/ingredient1"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/cream"
+            android:drawableLeft="@drawable/baseline_fastfood_24"
+            android:background="@drawable/cream_border"
+            android:hint="  Ingredient 1" />
+
+        <EditText
+            android:id="@+id/ingredient2"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/cream"
+            android:drawableLeft="@drawable/baseline_fastfood_24"
+            android:background="@drawable/cream_border"
+            android:hint="  Ingredient 2"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/ingredient3"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/cream"
+            android:drawableLeft="@drawable/baseline_fastfood_24"
+            android:background="@drawable/cream_border"
+            android:hint="  Ingredient 3"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/ingredient4"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/cream"
+            android:drawableLeft="@drawable/baseline_fastfood_24"
+            android:background="@drawable/cream_border"
+            android:hint="  Ingredient 4"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/ingredient5"
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/cream"
+            android:drawableLeft="@drawable/baseline_fastfood_24"
+            android:background="@drawable/cream_border"
+            android:hint="  Ingredient 5"
+            android:minHeight="48dp" />
+
+        <Button
+            android:id="@+id/searchButton"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:text="Search Recipes"
+            android:background="@drawable/cream_border"
+            android:fontFamily="@font/evogria"
+            android:drawableLeft="@drawable/baseline_search_24"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_gravity="start">
+
+        <include
+            layout="@layout/nav_drawer"/>
+
+    </RelativeLayout>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
